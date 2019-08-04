@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+@import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');
+.header{
+border-bottom: solid 3px black;
+background-color: rgb(255, 109, 109);
+}
+.primerh1{  
+    font-family: 'Kalam', cursive;
+    letter-spacing: 5px;
+    margin-top: 10px;
+    font-size: 60px;
+}
+.container{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.inputs{
+    margin-left: 65px;
+    margin-top: 28px;
+}
+.titulo-suma{
+    margin-left: 172px;
+    font-family: 'Kalam', cursive;
+}
+.micarrito{
+    margin-left: 200px;
+}
+.emty-space{
+    width: 200px
+}
+
+.btn.btn-outline{
+    background-color: rgb(255, 255, 255);
+    margin-left: 5px;
+}
+.micompra{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.titulo-productos{
+    margin-left: 480px;
+    font-family: 'Kalam', cursive;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 50px
+}
+.losproductos{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.card-group{
+ margin-top: 50px;
+}
+.categorias{
+    font-family: 'Kalam', cursive;
+}

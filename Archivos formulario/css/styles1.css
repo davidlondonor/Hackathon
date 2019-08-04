@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+    font-family: 'Kalam', cursive;
+}
+
+.superM {
+    width: 350px; 
+    margin-top: 80px;
+    margin-left: 190px;
+
+}
+
+.miFormulario {
+    margin-top: 70px;
+    margin-left: 80px;
+    font-size: 180%;
+}
+
+.titulo {
+    margin-left: 477px;
+    margin-top: 10px;
+    font-size: 70px;
+}
+
+
+
